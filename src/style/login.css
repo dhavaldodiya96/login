@@ -1,0 +1,82 @@
+.mainHeading{
+ margin-left: 20%;
+ color: rgb(15, 60, 60);
+}
+.formMainConatainer{
+ border: 2px solid rgb(248, 239, 239);
+ border-radius: 8px;
+ width: 35%;
+ margin-left: 30%;
+ margin-top: 8%;
+}
+.userId{
+ display: flex;
+ flex-direction: column;
+ margin-left: 15px;
+ height: 70px;
+
+}
+.userIdExample{
+ height: 40px;
+ margin-top: 3px;
+ width: 90%;
+ border-radius: 5px;
+}
+.passwordCont{
+ flex-direction: column;
+ margin-left: 15px;
+ margin-top: 15px;
+}
+.passwordInput{
+height: 40px;
+margin-top: 3px;
+width: 90%;
+border-radius: 5px;
+}
+.form{
+ /* border: 1px solid black; */
+
+}
+.icon{
+ font-size: 24px;
+ position: absolute;
+ top: '50%';
+ right: "5px";
+ transform: 'translateY(-50%)';
+}
+.forLogButton{
+ /* border: 1px solid green; */
+ display: flex;
+ flex-direction: column;
+ margin-left: 35%;
+ margin-top: 8%;
+}
+.loginButton{
+ 
+}
+.loginmain{
+ padding: 11px;
+ margin-top: 10px;
+ font-weight: 900;
+ border-radius: 5px;
+ background-color: rgb(163, 163, 249);
+}
+.loginmain:hover{
+ background-color: rgb(201, 255, 255);
+}
+.tableContainer{
+ border: 2px solid green;
+ /* width: 50%;
+ 
+ margin: auto; */
+}
+.tableHeading{
+ text-align: center;
+ margin-top: 10px;
+ font-weight: bolder;
+
+}
+.searchInput{
+ border: 2px solid;
+
+}
